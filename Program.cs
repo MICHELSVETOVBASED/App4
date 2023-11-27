@@ -15,6 +15,7 @@ namespace ConsoleApplication3
             {
                 Console.WriteLine(message,item.GetType(),item);//1то есть принимает переменную а потом две подпеременные из парамса
             }//git@github.com:MICHELSVETOVBASED/App4.git
+            //git@github.com:MICHELSVETOVBASED/App4.git
         }
 
         static void Main(string[] args)
